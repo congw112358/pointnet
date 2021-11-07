@@ -1,0 +1,9 @@
+# ignore data set
+modelnet*
+
+# system files
+*.DS_Store
+
+# python files
+**/__pycache__/**
+**/.ipynb_checkpoints
